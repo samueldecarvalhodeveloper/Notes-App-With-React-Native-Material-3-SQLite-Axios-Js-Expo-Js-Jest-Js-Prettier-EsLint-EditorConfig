@@ -1,0 +1,31 @@
+export const NEUTRALS_1000 = "#000000";
+export const NEUTRALS_900 = "#08000f";
+export const NEUTRALS_800 = "#242226";
+export const NEUTRALS_700 = "#2e2c30";
+export const NEUTRALS_600 = "#444047";
+export const NEUTRALS_500 = "#615c66";
+export const NEUTRALS_400 = "#7c7582";
+export const NEUTRALS_300 = "#aaa1b2";
+export const NEUTRALS_200 = "#dfd3eb";
+export const NEUTRALS_100 = "#f9f2ff";
+export const NEUTRALS_000 = "#ffffff";
+
+export const PRIMARY_900 = "#2a0d45";
+export const PRIMARY_800 = "#3c1461";
+export const PRIMARY_700 = "#460f7a";
+export const PRIMARY_600 = "#5905a8";
+export const PRIMARY_500 = "#840cf5";
+export const PRIMARY_400 = "#b669ff";
+export const PRIMARY_300 = "#d4a9fc";
+export const PRIMARY_200 = "#ead4ff";
+export const PRIMARY_100 = "#f8f0ff";
+
+export const SECONDARY_900 = "#0d4532";
+export const SECONDARY_800 = "#146147";
+export const SECONDARY_700 = "#0f7a56";
+export const SECONDARY_600 = "#05a872";
+export const SECONDARY_500 = "#0cf5a7";
+export const SECONDARY_400 = "#69ffcd";
+export const SECONDARY_300 = "#a9fce1";
+export const SECONDARY_200 = "#d4fff1";
+export const SECONDARY_100 = "#f0fffa";
