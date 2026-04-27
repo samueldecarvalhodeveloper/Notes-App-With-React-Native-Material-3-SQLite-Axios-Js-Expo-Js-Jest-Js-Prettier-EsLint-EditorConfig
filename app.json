@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "notes_app",
+    "slug": "notes_app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./src/user_interface/assets/imgs/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "experiments": {
+      "reactCompiler": true
+    },
+    "splash": {
+      "image": "./src/user_interface/assets/imgs/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./src/user_interface/assets/imgs/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./src/user_interface/assets/imgs/favicon.png"
+    },
+    "plugins": ["expo-sqlite"]
+  }
+}
